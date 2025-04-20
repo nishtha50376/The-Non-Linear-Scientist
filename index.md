@@ -1,3 +1,8 @@
-# Welcome to My Portfolio Website
+---
+layout: home
+title: The Non-Linear Scientist
+---
 
-This is the homepage. Feel free to explore the sections.
+Hi, I’m a researcher in optics and photonics with a non-linear career path, and I have worked in academia, government, and industry R&D.
+
+Explore the sections below to learn more:
