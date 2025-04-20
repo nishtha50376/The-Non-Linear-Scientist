@@ -7,10 +7,11 @@ permalink: /concepts/
 
 This ASCII pattern represents rays converging to a focal point (center row), then diverging out — just like what you'd see in ray tracing or ZEMAX!
 
-### 🐍 The Python Code
+
+### 🐍 Python Code for ASCII Ray Simulation
 
 ```python
-n = 3  # Beam intensity - controls the size
+n = 3  # Beam size — increase for more rays
 
 for i in range(2 * n + 1):
     if i < n:
@@ -25,6 +26,6 @@ for i in range(2 * n + 1):
         print(' ' * spaces + '/' + ' ' * gap + '|' + ' ' * gap + '\\')
 
 
-# Concepts Page
+# Next topic
 
 Stroboscopic effect
