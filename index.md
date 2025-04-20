@@ -39,13 +39,5 @@ This site includes:
 
 ---
 
-## Coming Soon: Interactive Visuals & Simulations
-
-You’ll soon be able to explore:
-
-- Live **THz beam simulations**
-- Interactive comparisons of **nature + optics**
-- Scrolling science stories and animations
-
 Stay tuned.
 
