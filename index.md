@@ -3,10 +3,55 @@ layout: home
 title: The Non-Linear Scientist
 ---
 
-Hi, I’m a researcher in optics and photonics with a non-linear career path, and I have worked in academia, government, and industry R&D.
+## Welcome to The Non-Linear Scientist
 
-Explore the sections below to learn more:
+I’m a researcher and consultant working at the intersection of **optics**, **terahertz technology**, and **non-linear systems**.  
+This site is where I translate complex science into engaging, nature-inspired analogies and showcase research that bridges academia, R&D, and society.
+
+---
+
+## Navigation
 
 [About](about/) | [Career](career/) | [Research](research/) | [Concepts](concepts/) | [Consulting](consulting/) | [Contact](contact/)
 
+---
+
+## Featured Insight: Can Light Think?
+
+<img src="assets/images/brain-wavefront.jpg" alt="Brain-like Optical Processing" width="70%">
+
+In neuromorphic computing, we model how neurons process inputs through **timing, connection strength, and feedback**.
+
+But what if **light** could do the same?
+
+Optical systems — especially those that modulate **phase and amplitude** — are increasingly being designed to **compute**, not just transmit. Light waves can **interfere, resonate, and converge** much like **neural impulses** in the brain.
+
+🧬 In a photonic neural network, a wavefront might carry encoded information in **its shape, angle, or even its distortion** — just like a neuron encodes meaning in its spike train.
+
+These systems don’t just move fast. They move **differently** — embracing **non-linearity**, **parallelism**, and even **memory** in ways that echo the brain.
+
+[Explore more in Science Concepts →](concepts/)
+
+---
+
+## Explore
+
+This site includes:
+
+- 🧠 [Science Concepts](concepts/): Explaining optics and THz through nature-inspired analogies
+- 🔬 [Research](research/): THz beam shaping, adaptive optics, photoconductive arrays
+- 🌍 [Career](career/): My journey across academia, industry, and policy
+- 💡 [Consulting](consulting/): How I help teams with science strategy, optical design, and innovation
+
+---
+
+## Coming Soon: Interactive Visuals & Simulations
+
+You’ll soon be able to explore:
+
+- Live **THz beam simulations**
+- Interactive comparisons of **nature + optics**
+- Scrolling science stories and animations
+
+Stay tuned.
 
