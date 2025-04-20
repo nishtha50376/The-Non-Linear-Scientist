@@ -5,14 +5,8 @@ title: The Non-Linear Scientist
 
 ## Welcome to The Non-Linear Scientist
 
-I’m a researcher and consultant working at the intersection of **optics**, **terahertz technology**, and **non-linear systems**.  
-This site is where I translate complex science into engaging, nature-inspired analogies and showcase research that bridges academia, R&D, and society.
-
----
-
-## Navigation
-
-[About](about/) | [Career](career/) | [Research](research/) | [Concepts](concepts/) | [Consulting](consulting/) | [Contact](contact/)
+I’m a researcher and consultant working at the intersection of **optics**, **integrated photonics (Si/III-V materials)**, **RF/mm-wave technologies**, and **cleanroom fabrication**.
+This site is where I translate complex science into engaging, nature-inspired analogies and share my journey, highlighting the **point-of-view** as seen from academic, industrial, and societal perspective.
 
 ---
 
