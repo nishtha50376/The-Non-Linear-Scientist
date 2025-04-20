@@ -7,5 +7,5 @@ Hi, I’m a researcher in optics and photonics with a non-linear career path, an
 
 Explore the sections below to learn more:
 
-[About](about.md) | [Career](career.md) | [Research](research.md) | [Science Concepts](concepts.md) | [Consulting](consulting.md) | [Contact](contact.md)
+[About](/about/) | [Career](/career/) | [Research](/research/) | [Concepts](/concepts/) | [Consulting](/consulting/) | [Contact](/contact/)
 
