@@ -20,7 +20,7 @@ Photonic systems can exhibit analogous behaviour. When we control phase and ampl
 
 If you’re curious, I’m building short explainers with lightweight simulations and visual intuition.
 
-[Explore Science Topics →](/science/)
+[Explore Science Topics →](/Science/)
 
 ---
 
