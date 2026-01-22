@@ -1,43 +1,34 @@
 ---
 layout: home
-title: The Non-Linear Scientist
+title: Dr Nishtha Chopra
 ---
 
-## Welcome to The Non-Linear Scientist
+## Optical systems & photonics R&D
 
-I’m a researcher and consultant working at the intersection of **optics**, **integrated photonics (Si/III-V materials)**, **RF/mm-wave technologies**, and **cleanroom fabrication**.
-This site is where I translate complex science into engaging, nature-inspired analogies and share my journey, highlighting the **point-of-view** as seen from academic, industrial, and societal perspective.
+I’m an optical engineer and researcher working across optics, integrated photonics (Si/III–V), RF/mm-wave technologies, and prototyping/characterisation workflows. I build prototypes, design test strategy, and translate complex physics into clear engineering decisions.
 
----
-
-## Featured Insight: Can Light Think?
-
-<img src="assets/images/brain-wavefront.jpg" alt="Brain-like Optical Processing" width="70%">
-
-In neuromorphic computing, we model how neurons process inputs through **timing, connection strength, and feedback**.
-
-But what if **light** could do the same?
-
-Optical systems — especially those that modulate **phase and amplitude** — are increasingly being designed to **compute**, not just transmit. Light waves can **interfere, resonate, and converge** much like **neural impulses** in the brain.
-
-🧬 In a photonic neural network, a wavefront might carry encoded information in **its shape, angle, or even its distortion** — just like a neuron encodes meaning in its spike train.
-
-These systems don’t just move fast. They move **differently** — embracing **non-linearity**, **parallelism**, and even **memory** in ways that echo the brain.
-
-[Explore more in Science Concepts →](concepts/)
+Links: LinkedIn · Google Scholar · ORCID · GitHub · CV (PDF)
 
 ---
 
-## Explore
+## Featured insight: Can light compute?
 
-This site includes:
+<img src="assets/images/brain-wavefront.jpg" alt="Brain-like optical processing" width="70%">
 
-- 🧠 [Science Concepts](concepts/): Explaining optics and THz through nature-inspired analogies
-- 🔬 [Research](research/): THz beam shaping, adaptive optics, photoconductive arrays
-- 🌍 [Career](career/): My journey across academia, industry, and policy
-- 💡 [Consulting](consulting/): How I help teams with science strategy, optical design, and innovation
+Neuromorphic computing asks how information can be processed through timing, connection strength, and feedback.
+
+Photonic systems can exhibit analogous behaviour. When we control phase and amplitude, light can interfere, resonate, and transform wavefronts in ways that enable computation-like operations — not just transmission.
+
+If you’re curious, I’m building short explainers with lightweight simulations and visual intuition.
+
+[Explore Science Topics →](/science/)
 
 ---
 
-Stay tuned.
+## Start here
+
+- [Work](/work/) — selected R&D projects, outcomes, and prototypes
+- [Science Topics](/science/) — explainers, models, and simulations
+- [About](/about/) — background and focus
+- [Contact](/contact/) — email and links
 
