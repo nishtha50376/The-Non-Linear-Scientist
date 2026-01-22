@@ -13,7 +13,6 @@ Links: LinkedIn · Google Scholar · ORCID · GitHub · CV (PDF)
 
 ## Featured insight: Can light compute?
 
-<img src="assets/images/brain-wavefront.jpg" alt="Brain-like optical processing" width="70%">
 
 Neuromorphic computing asks how information can be processed through timing, connection strength, and feedback.
 
