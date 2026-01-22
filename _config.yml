@@ -1,7 +1,11 @@
 title: Dr Nishtha Chopra 
 email: nishtha50376@gmail.com
-description: >- 
-  Space to explore optics research, consulting work, and science communication.
+description: Optical systems & photonics R&D — from models to prototypes.
+header_pages:
+  - research.md
+  - concepts.md
+  - about.md
+  - contact.md
 theme: minima
 markdown: kramdown
 plugins:
