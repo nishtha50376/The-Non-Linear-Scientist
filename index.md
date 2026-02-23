@@ -8,11 +8,10 @@ title: Dr Nishtha Chopra
 I’m an optical engineer and researcher working across optics, integrated photonics (Si/III–V), RF/mm-wave technologies, and prototyping/characterisation workflows. I build prototypes, design test strategies, and translate complex physics into clear engineering decisions.
 
 Links:
-[LinkedIn] https://www.linkedin.com/in/chopranishtha/·
-[Google Scholar]https://scholar.google.com/citations?user=jfWBmYkAAAAJ&hl=en·
+[LinkedIn] (https://www.linkedin.com/in/chopranishtha/)
+[Google Scholar](https://scholar.google.com/citations?user=jfWBmYkAAAAJ&hl=en)
 [ORCID](https://orcid.org/0000-0003-4188-4810)·
 [GitHub](https://github.com/nishtha50376)·
-[CV (PDF)]({{ "/assets/DrNishtha_Chopra_376.pdf" | relative_url }})
 
 
 ---
